@@ -1,2 +1,3 @@
 # Mygallery
-In this i had learn how to use fillter on the image using grid.
+In this frontend i had learn how to use fillter on image ,grid formation.
+
